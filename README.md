@@ -3,7 +3,7 @@
 * A polyglot developer with affinity towards front end development.
 * I have close to 7 years of experience working as a software developer on various tech stacks.
 * I am a budding Data Science enthusiast
-* I am currently interested in building web applications using React and building mobile application using React-Native
+* I am currently interested in building web applications using React and building mobile application using React-Native and dab a bit with Python as well.
 
 <!--
 **ashokpeeta/ashokpeeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
